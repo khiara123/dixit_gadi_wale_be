@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "export NODE_ENV=development && node ./bin/www",
+    "start": "export NODE_ENV=development && node ./bin/www",
     "prod": "export NODE_ENV=production && node ./bin/www"
   },
   "dependencies": {
