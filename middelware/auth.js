@@ -42,9 +42,9 @@ const verifyToken = async(req, res, next) =>  {
         
         return res.status(500).send({message: 'something went wrong'});
       }
-      if(decoded.seesionId !== req.sessionID) {
-        return res.status(401).send({message: "Unatherized access"});
-      }
+      // if(decoded.seesionId !== req.sessionID) {
+      //   return res.status(401).send({message: "Unatherized access"});
+      // }
       jwt.verify(token, config.JWT_SECRET, (err, user) => {
           if (err) {
             res.status(401).send({message: "Unatherized access"});
