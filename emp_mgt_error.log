@@ -1,0 +1,1184 @@
+MongoServerError: E11000 duplicate key error collection: employee_management.employees index: email_1 dup key: { email: "khaira.ankit2@gmail.com" }
+    at /home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/operations/command.js:84:64
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'khaira.ankit2@gmail.com' },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+MongoServerError: E11000 duplicate key error collection: employee_management.employees index: email_1 dup key: { email: "khaira.ankit2@gmail.com" }
+    at /home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/operations/command.js:84:64
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'khaira.ankit2@gmail.com' },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+MongoServerError: E11000 duplicate key error collection: employee_management.employees index: email_1 dup key: { email: "khaira.ankit2@gmail.com" }
+    at /home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/operations/command.js:84:64
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'khaira.ankit2@gmail.com' },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+/home/ankit/react-app-tailwind/node-backend/model/employeeModel.js:107
+toJSON: { getters: true, setters: true }, runSettersOnQuery: true}});
+                                                                 ^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/controller/employeeController.js:2:18)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+/home/ankit/react-app-tailwind/node-backend/model/employeeModel.js:107
+toJSON: { getters: true, setters: true }, runSettersOnQuery: true}});
+                                                                 ^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/controller/employeeController.js:2:18)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+/home/ankit/react-app-tailwind/node-backend/model/employeeModel.js:107
+toJSON: { getters: true, setters: true }, runSettersOnQuery: true}});
+                                                                 ^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/controller/employeeController.js:2:18)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+/home/ankit/react-app-tailwind/node-backend/model/employeeModel.js:107
+toJSON: { getters: true, setters: true }, runSettersOnQuery: true}});
+                                                                 ^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/controller/employeeController.js:2:18)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+/home/ankit/react-app-tailwind/node-backend/model/employeeModel.js:107
+toJSON: { getters: true, setters: true }, runSettersOnQuery: true}});
+                                                                 ^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/controller/employeeController.js:2:18)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+/home/ankit/react-app-tailwind/node-backend/model/employeeModel.js:107
+toJSON: { getters: true, setters: true }, runSettersOnQuery: true}});
+                                                                 ^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/controller/employeeController.js:2:18)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+/home/ankit/react-app-tailwind/node-backend/model/employeeModel.js:107
+toJSON: { getters: true, setters: true }, runSettersOnQuery: true}});
+                                                                 ^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/controller/employeeController.js:2:18)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+/home/ankit/react-app-tailwind/node-backend/model/employeeModel.js:107
+toJSON: { getters: true, setters: true }, runSettersOnQuery: true}});
+                                                                 ^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/controller/employeeController.js:2:18)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+/home/ankit/react-app-tailwind/node-backend/model/employeeModel.js:107
+toJSON: { getters: true, setters: true }, runSettersOnQuery: true}});
+                                                                 ^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/controller/employeeController.js:2:18)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+/home/ankit/react-app-tailwind/node-backend/model/employeeModel.js:107
+toJSON: { getters: true, setters: true }, runSettersOnQuery: true}});
+                                                                 ^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (internal/modules/cjs/loader.js:984:16)
+    at Module._compile (internal/modules/cjs/loader.js:1032:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/controller/employeeController.js:2:18)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as delete] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/routes/employee.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v14.17.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:88:18)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.removeEmpolyee (/home/ankit/react-app-tailwind/node-backend/controller/employeeController.js:74:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.removeEmpolyee (/home/ankit/react-app-tailwind/node-backend/controller/employeeController.js:74:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.removeEmpolyee (/home/ankit/react-app-tailwind/node-backend/controller/employeeController.js:74:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.removeEmpolyee (/home/ankit/react-app-tailwind/node-backend/controller/employeeController.js:74:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.removeEmpolyee (/home/ankit/react-app-tailwind/node-backend/controller/employeeController.js:74:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.removeEmpolyee (/home/ankit/react-app-tailwind/node-backend/controller/employeeController.js:74:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.removeEmpolyee (/home/ankit/react-app-tailwind/node-backend/controller/employeeController.js:74:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.removeEmpolyee (/home/ankit/react-app-tailwind/node-backend/controller/employeeController.js:74:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.removeEmpolyee (/home/ankit/react-app-tailwind/node-backend/controller/employeeController.js:74:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.removeEmpolyee (/home/ankit/react-app-tailwind/node-backend/controller/employeeController.js:74:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.loginUser (/home/ankit/react-app-tailwind/node-backend/controller/userController.js:84:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.loginUser (/home/ankit/react-app-tailwind/node-backend/controller/userController.js:84:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.loginUser (/home/ankit/react-app-tailwind/node-backend/controller/userController.js:84:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.loginUser (/home/ankit/react-app-tailwind/node-backend/controller/userController.js:84:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Connection error MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (/home/ankit/react-app-tailwind/node-backend/node_modules/mongoose/lib/connection.js:805:11)
+    at NativeConnection.openUri (/home/ankit/react-app-tailwind/node-backend/node_modules/mongoose/lib/connection.js:780:11) {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-ohzgbpz-shard-00-00.z6fgxzj.mongodb.net:27017' => [ServerDescription],
+      'ac-ohzgbpz-shard-00-01.z6fgxzj.mongodb.net:27017' => [ServerDescription],
+      'ac-ohzgbpz-shard-00-02.z6fgxzj.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-ykwmdd-shard-0',
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.loginUser (/home/ankit/react-app-tailwind/node-backend/controller/userController.js:84:24)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.loginUser (/home/ankit/react-app-tailwind/node-backend/controller/userController.js:84:24)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.loginUser (/home/ankit/react-app-tailwind/node-backend/controller/userController.js:84:24)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+TypeError: Cannot read property 'email' of undefined
+    at module.exports.verifyUserToken (/home/ankit/react-app-tailwind/node-backend/controller/userController.js:102:21)
+    at Layer.handle [as handle_request] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:137:13)
+    at /home/ankit/react-app-tailwind/node-backend/middelware/auth.js:52:11
+    at /home/ankit/react-app-tailwind/node-backend/node_modules/jsonwebtoken/verify.js:190:16
+    at getSecret (/home/ankit/react-app-tailwind/node-backend/node_modules/jsonwebtoken/verify.js:97:14)
+    at Object.module.exports [as verify] (/home/ankit/react-app-tailwind/node-backend/node_modules/jsonwebtoken/verify.js:101:10)
+    at verifyToken (/home/ankit/react-app-tailwind/node-backend/middelware/auth.js:47:11)
+    at Layer.handle [as handle_request] (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/router/route.js:137:13)
+/home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/operations/add_user.js:16
+        this.options = options ?? {};
+                                ^
+
+SyntaxError: Unexpected token ?
+    at Module._compile (internal/modules/cjs/loader.js:760:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)
+    at Module.load (internal/modules/cjs/loader.js:685:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:620:12)
+    at Module.require (internal/modules/cjs/loader.js:723:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v11.15.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:14:16)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/admin.js:4:20)
+    at Module._compile (internal/modules/cjs/loader.js:816:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)
+/home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/operations/add_user.js:16
+        this.options = options ?? {};
+                                ^
+
+SyntaxError: Unexpected token ?
+    at Module._compile (internal/modules/cjs/loader.js:760:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)
+    at Module.load (internal/modules/cjs/loader.js:685:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:620:12)
+    at Module.require (internal/modules/cjs/loader.js:723:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v11.15.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:14:16)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/admin.js:4:20)
+    at Module._compile (internal/modules/cjs/loader.js:816:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)
+/home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/operations/add_user.js:16
+        this.options = options ?? {};
+                                ^
+
+SyntaxError: Unexpected token ?
+    at Module._compile (internal/modules/cjs/loader.js:760:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)
+    at Module.load (internal/modules/cjs/loader.js:685:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:620:12)
+    at Module.require (internal/modules/cjs/loader.js:723:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v11.15.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:14:16)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/admin.js:4:20)
+    at Module._compile (internal/modules/cjs/loader.js:816:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)
+/home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/operations/add_user.js:16
+        this.options = options ?? {};
+                                ^
+
+SyntaxError: Unexpected token ?
+    at Module._compile (internal/modules/cjs/loader.js:760:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)
+    at Module.load (internal/modules/cjs/loader.js:685:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:620:12)
+    at Module.require (internal/modules/cjs/loader.js:723:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v11.15.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:14:16)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/admin.js:4:20)
+    at Module._compile (internal/modules/cjs/loader.js:816:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)
+/home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/operations/add_user.js:16
+        this.options = options ?? {};
+                                ^
+
+SyntaxError: Unexpected token ?
+    at Module._compile (internal/modules/cjs/loader.js:760:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)
+    at Module.load (internal/modules/cjs/loader.js:685:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:620:12)
+    at Module.require (internal/modules/cjs/loader.js:723:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v11.15.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:14:16)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/admin.js:4:20)
+    at Module._compile (internal/modules/cjs/loader.js:816:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)
+/home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/operations/add_user.js:16
+        this.options = options ?? {};
+                                ^
+
+SyntaxError: Unexpected token ?
+    at Module._compile (internal/modules/cjs/loader.js:760:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)
+    at Module.load (internal/modules/cjs/loader.js:685:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:620:12)
+    at Module.require (internal/modules/cjs/loader.js:723:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v11.15.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:14:16)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/admin.js:4:20)
+    at Module._compile (internal/modules/cjs/loader.js:816:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)
+/home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/operations/add_user.js:16
+        this.options = options ?? {};
+                                ^
+
+SyntaxError: Unexpected token ?
+    at Module._compile (internal/modules/cjs/loader.js:760:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)
+    at Module.load (internal/modules/cjs/loader.js:685:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:620:12)
+    at Module.require (internal/modules/cjs/loader.js:723:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v11.15.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:14:16)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/admin.js:4:20)
+    at Module._compile (internal/modules/cjs/loader.js:816:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)
+/home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/operations/add_user.js:16
+        this.options = options ?? {};
+                                ^
+
+SyntaxError: Unexpected token ?
+    at Module._compile (internal/modules/cjs/loader.js:760:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)
+    at Module.load (internal/modules/cjs/loader.js:685:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:620:12)
+    at Module.require (internal/modules/cjs/loader.js:723:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v11.15.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:14:16)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/admin.js:4:20)
+    at Module._compile (internal/modules/cjs/loader.js:816:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)
+/home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/operations/add_user.js:16
+        this.options = options ?? {};
+                                ^
+
+SyntaxError: Unexpected token ?
+    at Module._compile (internal/modules/cjs/loader.js:760:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)
+    at Module.load (internal/modules/cjs/loader.js:685:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:620:12)
+    at Module.require (internal/modules/cjs/loader.js:723:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v11.15.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:14:16)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/admin.js:4:20)
+    at Module._compile (internal/modules/cjs/loader.js:816:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)
+/home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/operations/add_user.js:16
+        this.options = options ?? {};
+                                ^
+
+SyntaxError: Unexpected token ?
+    at Module._compile (internal/modules/cjs/loader.js:760:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)
+    at Module.load (internal/modules/cjs/loader.js:685:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:620:12)
+    at Module.require (internal/modules/cjs/loader.js:723:19)
+    at Module.Hook._require.Module.require (/home/ankit/.nvm/versions/node/v11.15.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:14:16)
+    at Object.<anonymous> (/home/ankit/react-app-tailwind/node-backend/node_modules/mongodb/lib/admin.js:4:20)
+    at Module._compile (internal/modules/cjs/loader.js:816:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:827:10)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.loginUser (/home/ankit/react-app-tailwind/node-backend/controller/userController.js:84:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.loginUser (/home/ankit/react-app-tailwind/node-backend/controller/userController.js:84:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.loginUser (/home/ankit/react-app-tailwind/node-backend/controller/userController.js:84:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.loginUser (/home/ankit/react-app-tailwind/node-backend/controller/userController.js:84:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.loginUser (/home/ankit/react-app-tailwind/node-backend/controller/userController.js:84:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Connection error MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (/home/ankit/react-app-tailwind/node-backend/node_modules/mongoose/lib/connection.js:805:11)
+    at NativeConnection.openUri (/home/ankit/react-app-tailwind/node-backend/node_modules/mongoose/lib/connection.js:780:11)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-ohzgbpz-shard-00-00.z6fgxzj.mongodb.net:27017' => [ServerDescription],
+      'ac-ohzgbpz-shard-00-01.z6fgxzj.mongodb.net:27017' => [ServerDescription],
+      'ac-ohzgbpz-shard-00-02.z6fgxzj.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-ykwmdd-shard-0',
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.loginUser (/home/ankit/react-app-tailwind/node-backend/controller/userController.js:84:24)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:561:11)
+    at ServerResponse.header (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:267:15)
+    at ServerResponse.send (/home/ankit/react-app-tailwind/node-backend/node_modules/express/lib/response.js:158:21)
+    at module.exports.loginUser (/home/ankit/react-app-tailwind/node-backend/controller/userController.js:84:24)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
