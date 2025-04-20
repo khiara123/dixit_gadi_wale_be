@@ -74,14 +74,16 @@ const tripInformationSchema = new mongoose.Schema(
     },
     checkedInDate: {
       type: Date,
+      default: null,
       get: function (val) {
-        return val ? val.toISOString().split("T")[0] : "N/A";
+        return val ? val.toISOString().split("T")[0] : null;
       },
     },
     checkoutDate: {
       type: Date,
+      default: null,
       get: function (val) {
-        return val ? val.toISOString().split("T")[0] : "N/A";
+        return val ? val.toISOString().split("T")[0] : null;
       },
     },
   },
