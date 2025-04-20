@@ -16,7 +16,7 @@ var usersRouter = require('./routes/users');
 var employeeRouter = require('./routes/employee');
 
 var app = express();
-const allowedOrigins = ['http://localhost:3000', 'https://dixit-gadi-wale-fe.vercel.app'];
+const allowedOrigins = ['http://localhost:3000', 'https://dixit-gadi-wale-fe.vercel.app', 'https://www.dixitgadiwale.com'];
 
 app.use(cors({
   origin: function (origin, callback) {
