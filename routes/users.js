@@ -233,4 +233,6 @@ router.post("/forgotPassword", [verfiyUser.userVerification], userController.for
 
 router.get("/verifyUserToken", [userAuthentication.verifyToken], userController.verifyUserToken)
 
+router.post("/enquiry", userController.userInquiry)
+
 module.exports = router;

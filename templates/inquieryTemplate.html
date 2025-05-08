@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <style>
+    body {
+      font-family: 'Segoe UI', Roboto, sans-serif;
+      background-color: #f5f8fa;
+      padding: 30px;
+      color: #333;
+    }
+    .container {
+      max-width: 700px;
+      margin: auto;
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+      padding: 30px;
+    }
+    .header {
+      border-bottom: 2px solid #0073e6;
+      padding-bottom: 15px;
+      margin-bottom: 25px;
+    }
+    .header h2 {
+      color: #0073e6;
+      margin: 0;
+    }
+    .intro {
+      font-size: 16px;
+      margin-bottom: 20px;
+    }
+    .details {
+      border-top: 1px solid #eee;
+      padding-top: 15px;
+    }
+    .details-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 15px;
+    }
+    .details-table td {
+      padding: 10px 0;
+      vertical-align: top;
+    }
+    .details-table .label {
+      font-weight: 600;
+      color: #444;
+      width: 35%;
+    }
+    .footer {
+      margin-top: 30px;
+      font-size: 13px;
+      color: #777;
+      border-top: 1px solid #eee;
+      padding-top: 15px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h2>📨 New Car/Bike/Scooty Rental Inquiry Received</h2>
+    </div>
+
+    <div class="intro">
+      Hello Team,<br/><br/>
+      A new inquiry has been submitted through the website. Please find the details below and follow up with the customer at the earliest opportunity.
+    </div>
+
+    <div class="details">
+      <table class="details-table">
+        <tr>
+          <td class="label">Name:</td>
+          <td>{{name}}</td>
+        </tr>
+        <tr>
+          <td class="label">Mobile Number:</td>
+          <td>{{mobile}}</td>
+        </tr>
+        <tr>
+          <td class="label">Preferred Car/Bike Type:</td>
+          <td>{{carType}}</td>
+        </tr>
+        <tr>
+          <td class="label">Pickup City:</td>
+          <td>{{pickupCity}}</td>
+        </tr>
+        <tr>
+          <td class="label">Dropoff City:</td>
+          <td>{{dropoffCity}}</td>
+        </tr>
+        <tr>
+          <td class="label">Pickup Date:</td>
+          <td>{{pickupDate}}</td>
+        </tr>
+        <tr>
+          <td class="label">Dropoff Date:</td>
+          <td>{{dropoffDate}}</td>
+        </tr>
+      </table>
+    </div>
+
+    <div class="intro" style="margin-top: 25px;">
+      👉 <strong>Next Steps:</strong> Assign this inquiry to the reservations team or call the user directly to confirm availability and rates.<br/>
+      🚗 Ensure the right car category is matched and provide accurate pricing and confirmation timeline.
+    </div>
+
+    <div class="footer">
+      This message was sent automatically from the website's inquiry form.<br/>
+      Please do not reply to this email directly.
+    </div>
+  </div>
+</body>
+</html>

@@ -5,7 +5,7 @@ const { format } = require("date-fns");
 module.exports.getAllEmployee = async (req, res, next) => {
   try {
     const page = req?.query?.page || 1;
-    const limit = req?.query.limit || 5;
+    const limit = req?.query.limit || 10;
     const skip = (page - 1) * limit;
     const [employees, totalCount] = await Promise.all([
       Employee.find()
