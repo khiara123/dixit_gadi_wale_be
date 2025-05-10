@@ -1,7 +1,7 @@
 const Employee = require("../model/employeeModel");
 const puppeteer = require("puppeteer");
 const { format } = require("date-fns");
-
+// comment
 module.exports.getAllEmployee = async (req, res, next) => {
   try {
     const page = req?.query?.page || 1;
@@ -39,7 +39,6 @@ module.exports.saveEmployee = async (req, res, next) => {
     const employee = new Employee(req.body);
     const savedEmployee = await employee.save();
     if (!savedEmployee) {
-      console.log("its come here");
       res.status(500).send({ message: "something went wrong" });
       return;
     }

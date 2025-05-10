@@ -6,6 +6,7 @@ const config = require("../config");
 const fs = require("fs");
 const path = require("path");
 const transporter = require("../middelware/mailer");
+const cloudinary = require("../middelware/cloudConfig");
 
 module.exports.getAllUser = (req, res, next) => {
   res.send("list of all user");
@@ -168,7 +169,7 @@ module.exports.userInquiry = async (req, res, next) => {
     // Send mail
     const info = await transporter.sendMail(mailOptions);
 
-    console.log("Email sent:", info.response);
+    
 
     res.status(200).send({ message: "Inquiry submitted successfully", status: 200 });
   } catch (error) {
@@ -176,3 +177,38 @@ module.exports.userInquiry = async (req, res, next) => {
     res.status(500).send({ message: "Something went wrong" });
   }
 };
+
+module.exports.userGallary = async (req, res, next) => {
+  try {
+    const data  = await fetchAssetsWithContext()
+    if (data && data.length > 0) {
+      return  res.status(200).send({data: data, status:200})
+    }
+    return res.status(200).send({data: [], status:200, message: 'No Image and Video find'})
+  } catch(error) {
+    res.status(500).send({ message: "Something went wrong" });
+  }
+  
+}
+
+async function fetchAssetsWithContext() {
+  const result = await cloudinary.search
+    .expression('folder=DixitGadiwale')
+    .sort_by('created_at', 'desc')
+    .with_field('context')
+    .with_field('metadata')
+    .max_results(40)
+    .execute();
+  const assets = result.resources.map(asset => (
+    {
+    public_id: asset.public_id,
+    url: asset.secure_url,
+    type: asset.resource_type, // 'image' or 'video'
+    format: asset.format,
+    title: asset.context?.caption || null,
+    description: asset.context?.alt || null,
+  }));
+
+  console.log("assests---", assets);
+  return assets;
+}
